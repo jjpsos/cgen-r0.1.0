@@ -20,4 +20,4 @@ This code will change every time you run the separate auto-gippity project.
 
 Save this file in the same main project folder as your auto-gippity download from github:
 
-https://github.com/coderaidershaun/rust-auto-gippity-full-code.git
+.../auto-gpt-code.git
